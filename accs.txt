@@ -1,0 +1,17 @@
+[
+    {
+        "uid": "4346975230",
+        "password": "RARE_AIRDROPS_MP42B"
+    },
+    {
+        "uid": "4346975231",
+        "password": "RARE_AIRDROPS_VDOWC"
+    },
+    {
+        "uid": "4346975232",
+        "password": "RARE_AIRDROPS_UYU1P"
+    },
+    {
+        "uid": "4346975360",
+        "password": "RARE_AIRDROPS_OL4JO"
+    },
