@@ -1,4 +1,6 @@
-Flask
+PyJWT
+protobuf-decoder
+psutil
 pycryptodome
 requests
 protobuf
